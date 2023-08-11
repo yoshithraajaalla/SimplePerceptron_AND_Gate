@@ -12,3 +12,5 @@ def step(NW,n):
     return 0
 ```
 
+### Graph:
+![Alt text](image.png)
